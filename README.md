@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎮 TryHard Ensaboado de Call Of Duty Warzone<br>🧟 Amante de The Last Of Us<br>🐼 Gosto de Anime<br>🔫 Zerei todos os Resident Evil<br>⚽ Jogo Futebol<br>💻 Seguirei com a carreira de TI</p>🕷️Homem Aranha nas horas vagas
+<p align="left">🎮 TryHard Ensaboado de Call Of Duty Warzone<br>🧟 Amante de The Last Of Us<br>🐼 Gosto de Anime<br>🔫 Zerei todos os Resident Evil<br>⚽ Jogo Futebol<br>💻 Seguirei com a carreira de TI🕷️Homem Aranha nas horas vagas
 
 ###
 
