@@ -2,7 +2,7 @@
 Gustavo Costa 🔥🕷️
 
 <h2 align="center">
-Fullstack Developer • Backend • Creative Technology</h1>
+Creative Fullstack Developer from Brazil
 
 <p align="left">Sou estudante de Desenvolvimento de Sistemas no SENAI de Informática, atualmente no 2º semestre, cursando na Escola Moura Branco. Possuo a certificação Microsoft AI-900 (Fundamentos de Inteligência Artificial) e estou sempre em busca de ampliar meus conhecimentos e experiências na área de tecnologia. Resido em São Paulo, no bairro Heliópolis.</p>
 
