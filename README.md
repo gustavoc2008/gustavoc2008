@@ -1,3 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoc2008&show_icons=true&theme=rose_pine)
+
 <h1 align="center">
 Gustavo Costa 🎧 🕷️
 
