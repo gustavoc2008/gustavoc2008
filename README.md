@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/render?type=wave&color=f8a7c1&height=200&section=header&text=Gustavo%20Costa&fontSize=90)
+
 <h1 align="center">
 Gustavo Costa 🎧 🕷️
 
