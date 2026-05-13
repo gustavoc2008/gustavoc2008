@@ -5,7 +5,9 @@ Gustavo Costa 🎧 🕷️
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoc2008&show_icons=true&theme=rose_pine)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoc2008&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoc2008&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
