@@ -12,11 +12,11 @@ Gustavo Costa 🔥🕷️
 
 ###
 
-<p align="left">💻 Fullstack Development Student <br>
-🎵 Music & Creative Design Enthusiast <br>
-⚙️ Backend • IoT • AI <br>
-🎮 Story Games & Visual Experiences <br>
-🌎 São Paulo, Brazil 
+<p align="left">🎧 Tyler, The Creator aesthetic <br> 
+💻 Backend & Creative Development <br>
+⚙️ ESP32 • AI • Modern Interfaces <br>
+🎮 Storytelling Games Enthusiast <br>
+🕸️ Spider-Man fan
 
 ###
 
