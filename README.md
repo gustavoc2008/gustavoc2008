@@ -1,14 +1,13 @@
-<div align="center">
-
-(https://github-readme-stats.vercel.app/api?username=gustavoc2008&show_icons=true&theme=rose_pine)
-
-</div>
-
 <h1 align="center">
 Gustavo Costa 🎧 🕷️
 
 <h2 align="center">Creative Fullstack Developer from Brazil</h2>
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoc2008&show_icons=true&theme=rose_pine)
+
+</div>
 
 <p align="center">
 Fullstack Development student at SENAI Informática with interests in Backend, AI, IoT and modern interfaces. <br>
