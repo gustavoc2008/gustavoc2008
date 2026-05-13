@@ -12,11 +12,11 @@ Gustavo Costa 🔥🕷️
 
 ###
 
-<p align="left">💻 Fullstack Development Student  
-🎵 Music & Creative Design Enthusiast  
-⚙️ Backend • IoT • AI  
-🎮 Story Games & Visual Experiences  
-🌎 São Paulo, Brazil
+<p align="left">💻 Fullstack Development Student <br>
+🎵 Music & Creative Design Enthusiast <br>
+⚙️ Backend • IoT • AI <br>
+🎮 Story Games & Visual Experiences <br>
+🌎 São Paulo, Brazil 
 
 ###
 
