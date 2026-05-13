@@ -26,6 +26,7 @@ Microsoft AI-900 Certified • Inspired by music, design and creative technology
 ###
 
 <div align="center">
+  https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
