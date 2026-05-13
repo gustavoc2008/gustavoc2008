@@ -14,7 +14,7 @@ Microsoft AI-900 Certified • Inspired by music, design and creative technology
 
 ###
 
-<p align="left">🎧 Tyler, The Creator aesthetic <br> 
+<p align="center">🎧 Tyler, The Creator aesthetic <br> 
 💻 Backend & Creative Development <br>
 ⚙️ ESP32 • AI • Modern Interfaces <br>
 🎮 Storytelling Games Enthusiast <br>
@@ -26,7 +26,7 @@ Microsoft AI-900 Certified • Inspired by music, design and creative technology
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -46,7 +46,7 @@ Microsoft AI-900 Certified • Inspired by music, design and creative technology
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
