@@ -1,5 +1,5 @@
 <h1 align="center">
-Gustavo Costa 🔥🕷️
+Gustavo Costa 🎧 🕷️
 
 <h2 align="center">Creative Fullstack Developer from Brazil</h2>
 
