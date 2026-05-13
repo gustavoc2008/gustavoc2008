@@ -5,8 +5,7 @@ Gustavo Costa 🔥🕷️
 
 
 <p align="center">
-Fullstack Development student at SENAI Informática with interests in Backend, AI, IoT and modern interfaces.
-
+Fullstack Development student at SENAI Informática with interests in Backend, AI, IoT and modern interfaces. <br>
 Microsoft AI-900 Certified • Inspired by music, design and creative technology.</p>
 
 ###
