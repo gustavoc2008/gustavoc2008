@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="142" height="200" alt="tyler-the-creator" src="https://github.com/user-attachments/assets/1a53f314-060e-46a2-b344-c2f549ece640" />
+</p>
+
 <h1 align="center">
 Gustavo Costa 🎧 🕷️
 
@@ -10,9 +14,6 @@ Microsoft AI-900 Certified • Inspired by music, design and creative technology
 ###
 
 <h2 align="center">Sobre mim</h2>
-<p align="center">
-  <img width="142" height="200" alt="tyler-the-creator" src="https://github.com/user-attachments/assets/1a53f314-060e-46a2-b344-c2f549ece640" />
-</p>
 
 ###
 
