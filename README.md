@@ -4,7 +4,7 @@ Gustavo Costa 🔥🕷️
 <h2 align="center">Creative Fullstack Developer from Brazil</h2>
 
 
-<p align="left">
+<p align="center">
 Fullstack Development student at SENAI Informática with interests in Backend, AI, IoT and modern interfaces.
 
 Microsoft AI-900 Certified • Inspired by music, design and creative technology.</p>
