@@ -10,7 +10,7 @@ Microsoft AI-900 Certified • Inspired by music, design and creative technology
 ###
 
 <p align="center">
-  <img src="[https://dribbble.com/shots/10908441-IGOR-GIF-COVER](https://cdn.dribbble.com/userupload/26655948/file/original-9790eade4c0f342a4a2bb6ac1674470d.gif)" width="250px">
+  <img src="[https://dribbble.com/shots/10908441-IGOR-GIF-COVER](https://cdn.dribbble.com/userupload/26655948/file/original-9790eade4c0f342a4a2bb6ac1674470d.gif)" width="500px">
 </p>
 
 <h2 align="center">Sobre mim</h2>
