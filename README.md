@@ -10,8 +10,8 @@ Microsoft AI-900 Certified • Inspired by music, design and creative technology
 ###
 
 <h2 align="center">Sobre mim</h2>
-<p align="left">
-  <img width="100px" height="100px" alt="original-9790eade4c0f342a4a2bb6ac1674470d" src="https://github.com/user-attachments/assets/20209c76-189b-4426-afff-f60ebce0afe1" />
+<p align="center">
+  <img width="200px" height="200px" alt="original-9790eade4c0f342a4a2bb6ac1674470d" src="https://github.com/user-attachments/assets/20209c76-189b-4426-afff-f60ebce0afe1" />
 </p>
 
 ###
